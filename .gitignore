@@ -12,3 +12,6 @@ venv/
 
 # Mac
 .DS_Store
+
+# Local trash
+_trash/
