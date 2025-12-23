@@ -6,7 +6,8 @@
 La arquitectura está basada en **micro-aplicaciones desacopladas** que se comunican mediante
 **artefactos persistentes (JSON snapshots)**, no mediante llamadas directas.
 
-![Architecture Flow](images/05_ops_pipeline_flow.png)
+![Arquitectura General](../images/01_orion_control_room_overview.png)
+
 
 ---
 
