@@ -80,11 +80,4 @@ Autor: **Hugo Baghetti (@tele.objetivo)**
 Uso: portafolio público + demos ejecutables.  
 Si reutilizas partes, agradezco atribución.
 
----
 
-## Próximos pasos (cuando quieras)
-
-- Badge de “Live Demo” por proyecto (cuando estén deployados).
-- README en inglés (mirror).
-- Tests mínimos (smoke) + lint.
-- Makefile / scripts: `run_all.sh`, `freeze_requirements.sh`.
