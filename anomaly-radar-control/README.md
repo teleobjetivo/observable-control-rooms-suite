@@ -2,9 +2,7 @@
 
 Autor: **Hugo Baghetti (@tele.objetivo)**
 
-Este proyecto es un **radar liviano de anomalías**: toma una señal (métricas operacionales o indicadores) y la transforma en **priorización + explicación**.
-
-> No busco “IA por moda”; busco una interfaz que ayude a decidir **qué miro primero** y **por qué**.
+Este proyecto es un **radar liviano de anomalías**: toma una señal (métricas operacionales o indicadores) y la transforma en **priorización + explicación interpretada**.
 
 ---
 
@@ -52,22 +50,18 @@ anomaly-radar-control/
 
 ## 🔎 Cómo se usa
 
-1. Abro la app.
-2. Elijo el dataset (demo o real).
-3. Ajusto umbrales (sensibilidad).
-4. Reviso el ranking y el “por qué”.
-5. Exporto snapshot a `outputs/`.
+1. Abrir la app.
+2. Elijir el dataset (demo o real).
+3. Ajustar umbrales (sensibilidad).
+4. Revisar el ranking y el “por qué”.
+5. Exportar snapshot a `outputs/`.
 
 ---
 
-## ✅ Roadmap corto
+## ✅ Roadmap 
 
 - Ingesta desde CSV real + validaciones.
 - “Explain” por anomalía (top drivers).
 - Modo “trend” (comparar ventanas de tiempo).
 
----
 
-## Nota personal
-
-Lo diseñé para que se entienda en 2 minutos: **no hay magia**, hay señales → ranking → decisión.
