@@ -1,6 +1,7 @@
 # Observable Control Rooms Suite 🛰️
 
-Soy **Hugo Baghetti (@tele.objetivo)**. Construí esta suite como un **portafolio técnico ejecutable**: proyectos completos, versionados y documentados (no “demos sueltas”), con **apps Streamlit** que convierten datos y señales operacionales en **decisiones accionables**.
+Construí esta suite como un **portafolio técnico ejecutable**: proyectos completos, versionados y documentados (no “demos sueltas”), con **apps Streamlit** que convierte datos y señales operacionales en **decisiones accionables**.
+Cada sub proyecto lee datos, los procesa, depura, interpreta y los transmite como microservicio local, en consecuencia un un modulo lee todas las aplicaciones, consolidando los indicadores y genera una interpretacion inteligente, genera reportes, descarga datos de otros modulos, procesa generando feed y desplegando un completo cuadro de mando.
 
 > **Objetivo:** mostrar criterio de ingeniería (diseño, observabilidad, narrativa ejecutiva) aplicado a productos pequeños pero reales.
 
